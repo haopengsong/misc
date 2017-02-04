@@ -1,1 +1,3 @@
-# sampleCode of Haopeng Song
+# sampleCode of Haopeng.
+# All samples run in Ubuntu Linux.
+# Thanks.
